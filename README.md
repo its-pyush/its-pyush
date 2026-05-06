@@ -86,13 +86,10 @@ currently:
 <td width="33%" valign="top">
 
 ### 🏗️ Product Engineering
-I care about shipping things that **work at scale**. At Cherry Dating, I identified zero analytics visibility and independently built the first internal dashboard — serving 10k+ live users per day, from aggregation pipeline to rendered UI. I think in systems, not just features.
+I care about shipping things that **work at scale**.
 
 </td>
 <td width="33%" valign="top">
-
-### ⚙️ Performance & Systems
-A 40% query speed improvement isn't magic — it's a compound index on `{userId, createdAt}`. I profile before I optimise, and I find the bottleneck before touching code. Latency isn't abstract; every millisecond is a user experience decision.
 
 </td>
 <td width="33%" valign="top">
@@ -173,9 +170,6 @@ Competitive programming is how I train. 200+ problems across LeetCode, Codeforce
 | 🟡 **LeetCode** | Active — Graphs · DP · Binary Search |
 | 🔵 **Codeforces** | Consistent participation |
 | 🟤 **CodeChef** | Rating: **1320** (highest) |
-| 🎯 **GATE 2026** | **Rank 21,041** / 150,000+ — Top 15% (CS & IT) |
-| ⚡ **HackWithInfy** | Advanced to **in-person round** from 1M+ applicants |
-
 </div>
 
 ---
