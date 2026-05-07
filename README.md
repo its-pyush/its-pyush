@@ -20,7 +20,7 @@
 
 ```yaml
 name:        Piyush Singh
-base:        Ghaziabad, Uttar Pradesh, India
+base:        Lucknow, Uttar Pradesh, India
 role:        Full-Stack Engineer (MERN · Next.js)
 studying:    B.Tech IT @ AKGEC — 2027
 drive: |
@@ -30,8 +30,8 @@ drive: |
     2. Understand exactly why something is slow — then fix it.
     3. Sharpen algorithmic thinking through competitive programming.
 
-currently:
-  - building a public history timeline (10,500+ entries, 13 eras)
+On Going:
+  - building a public history timeline (10,500+ entries, 13 eras, 20 different categories)
   - solving graphs, DP, binary search problems in Java daily
   - levelling up in system design and distributed patterns
 ```
