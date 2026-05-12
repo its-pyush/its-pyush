@@ -122,7 +122,7 @@ Competitive programming is how I train. 200+ problems across LeetCode, Codeforce
 </td>
 <td width="50%">
 
-### 🕰️ [1pt TimeLine](https://github.com/its-pyush)
+### 🕰️ [TimeLine](https://github.com/its-pyush)
 > 10,500+ history entries. Zero component library.
 
 **Stack:** Node.js · Express.js · MongoDB · Vanilla JS/CSS/HTML
