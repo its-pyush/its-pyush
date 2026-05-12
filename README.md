@@ -129,8 +129,9 @@ Competitive programming is how I train. 200+ problems across LeetCode, Codeforce
 
 - 13 eras · 20 event categories — all custom UI
 - Server-side pagination limiting MongoDB cursor to 20 docs/req
-- Average page load **< 2 seconds** on entry listing view
+- Average page load **< under 2 seconds** on entry listing view
 - Built to understand performance from first principles
+- beautiful year visualisation implementation
 
 </td>
 </tr>
