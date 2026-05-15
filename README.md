@@ -189,6 +189,6 @@ Competitive programming is how I train. 200+ problems across LeetCode, Codeforce
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:cbd4c2,50:247ba0,100:247ba0&height=120&section=footer&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:247ba0,50:247ba0,100:cbd4c2&height=120&section=footer&animation=twinkling" />
 
 </div>
