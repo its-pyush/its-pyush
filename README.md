@@ -9,7 +9,7 @@
 <div align="center">
 
 ```
-> building things that scale · obsessing over performance · competing with machines
+building things that scale · obsessing over performance · competing with machines
 ```
 
 </div>
