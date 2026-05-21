@@ -91,9 +91,6 @@ I care about shipping things that **work at scale**.
 </td>
 <td width="33%" valign="top">
 
-</td>
-<td width="33%" valign="top">
-
 ### 🧠 Algorithmic Thinking
 Competitive programming is how I train. 200+ problems across LeetCode, Codeforces, CodeChef — heavy on graphs, DP, and binary search. Top 15% in GATE 2026 (CS & IT). I treat DSA as a discipline, not a checkbox.
 
